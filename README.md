@@ -35,3 +35,14 @@ Acceptance Criteria:
 * User can scroll through the map
 * West Palm Beach must be within screenshot
 
+### Notes
+
+The following validation rules are present on the account setup page;
+* You must register at least one phone number.
+* lastname is required.
+* firstname is required.
+* passwd is required.
+* address1 is required.
+* city is required.
+* The Zip/Postal code you've entered is invalid. It must follow this format: 00000
+* This country requires you to choose a State.
